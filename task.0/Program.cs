@@ -16,3 +16,4 @@ void CheckingNumber(string number)
   }
   else Console.WriteLine($"{number} -> нет");
 }
+CheckingNumber(number);
